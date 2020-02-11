@@ -1,0 +1,30 @@
+.panel{
+    width: 100%;
+    font-family: 'Coda Caption', sans-serif;
+}
+
+.jumbotron{
+    background-color: palevioletred;
+    color: peachpuff;   
+    border: double;
+    border-color: peachpuff;
+    border-width: 10px;
+}
+
+.panel{
+    border: double;
+    border-color: peachpuff;
+    border-width: 5px;
+}
+
+.panel-heading{
+    background-color: palevioletred;
+    color: peachpuff;
+    border-bottom: double;
+    border-width: 5px;
+}
+
+.btn{
+    background-color: palevioletred;
+    color: peachpuff;
+}
